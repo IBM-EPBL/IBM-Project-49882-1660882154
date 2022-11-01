@@ -29,22 +29,28 @@ MOHAMED NAZEEM A
 
 
 ### Checklist:
-- [ ] Ideation Phase
-  - [ ] Literature Survey
-  - [ ] Empathy Map
-  - [ ] Problem Statement 
-  - [ ] Ideation 
-- [ ] Project Design Phase -I
-  - [ ] Proposed Solution 
-  - [ ] Problem Solution Fit
-  - [ ] Solution Architecture 
-- [ ] Project Design Phase -II
-  - [ ] Customer Journey 
-  - [ ] Functional Requirement Document 
-  - [ ] Data Flow Daigrams 
-  - [ ] Technology Architecture
+- [x] Ideation Phase
+  - [x] Literature Survey
+  - [x] Empathy Map
+  - [x] Problem Statement 
+  - [x] Ideation 
+
+
+- [x] Project Design Phase -I
+  - [x] Proposed Solution 
+  - [x] Problem Solution Fit
+  - [x] Solution Architecture
+
+
+- [x] Project Design Phase -II
+  - [x] Customer Journey 
+  - [x] Functional Requirement Document 
+  - [x] Data Flow Daigrams 
+  - [x] Technology Architecture
 
 - [ ] Project Planning Phase
+  - [ ] Milestone & Activity List
+  - [ ] Sprint Delivery Plan
   
 
 - [ ] Project Development Phase
