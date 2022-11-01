@@ -33,7 +33,7 @@ MOHAMED NAZEEM A
   - [x] Literature Survey
   - [x] Empathy Map
   - [x] Problem Statement 
-  - [x] Ideation 
+  - [x] Brainstorm & Ideation 
 
 
 - [x] Project Design Phase -I
